@@ -1,0 +1,22 @@
+{
+  "groups": [
+    {
+      "name": "pcap",
+      "type": "com.bjtu.config.PropConfig",
+      "sourceType": "com.bjtu.config.PropConfig"
+    }
+  ],
+  "properties": [
+    {
+      "name": "pcap.filter",
+      "type": "java.lang.String",
+      "sourceType": "com.bjtu.config.PropConfig"
+    },
+    {
+      "name": "pcap.nif-name",
+      "type": "java.lang.String",
+      "sourceType": "com.bjtu.config.PropConfig"
+    }
+  ],
+  "hints": []
+}
